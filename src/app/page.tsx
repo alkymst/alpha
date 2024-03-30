@@ -50,7 +50,7 @@ export default async function Home() {
           provide strategic guidance, drive innovation, and oversee technology
           initiatives. With personalized consultations, innovation workshops,
           and technical leadership development, FluxCTO empowers businesses to
-          scale and thrive in today's digital landscape.
+          scale and thrive in today&apos;s digital landscape.
         </p>
         <div
           className="mx-auto mt-6 flex animate-fade-up items-center justify-center space-x-5 opacity-0"

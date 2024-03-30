@@ -30,7 +30,15 @@ const DemoModal = ({
           </a>
           <h3 className="font-display text-2xl font-bold">FluxCTO</h3>
           <p className="text-sm text-gray-500">
-            FluxCTO offers businesses unlimited access to elite Chief Technology Officers (CTOs) through our innovative subscription-based model. Our platform connects companies with experienced technology leaders who provide strategic guidance, drive innovation, and oversee technology initiatives. With personalized consultations, innovation workshops, and technical leadership development, FluxCTO empowers businesses to scale and thrive in today's digital landscape. Discover how FluxCTO's CTO Subscription Service can revolutionize your approach to technology leadership.
+            FluxCTO offers businesses unlimited access to elite Chief Technology
+            Officers (CTOs) through our innovative subscription-based model. Our
+            platform connects companies with experienced technology leaders who
+            provide strategic guidance, drive innovation, and oversee technology
+            initiatives. With personalized consultations, innovation workshops,
+            and technical leadership development, FluxCTO empowers businesses to
+            scale and thrive in today&apos;s digital landscape. Discover how
+            FluxCTO&apos;s CTO Subscription Service can revolutionize your
+            approach to technology leadership.
           </p>
         </div>
       </div>
