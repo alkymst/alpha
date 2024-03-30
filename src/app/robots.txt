@@ -1,0 +1,4 @@
+Sitemap: https://fluxcto.com/sitemap.xml
+
+User-agent: *
+Disallow: /api
